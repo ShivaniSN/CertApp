@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CertApp</string>
+    <string name="Activity_Main_Welcome_MSg">Welcome</string>
+</resources>
