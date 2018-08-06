@@ -8,15 +8,13 @@
         android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Activity_Splashscreen"
+        <activity android:name=".Activity_Main"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Activity_Main"
-            android:screenOrientation="portrait"/>
         <activity android:name=".Activity_Dashboard"
             android:screenOrientation="portrait"/>
     </application>
