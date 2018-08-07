@@ -3,4 +3,14 @@
     <string name="Activity_Main_ET_Username">Username</string>
     <string name="Activity_Main_ET_Password">Password</string>
     <string name="Activity_Main_BTN_Login">Login</string>
+    <string name="Activity_Main_IV_Msg">Questionnaire App</string>
+    <string name="Menu_Navigation_Item1">Add Question</string>
+    <string name="Menu_Navigation_Item2">About Us</string>
+    <string name="Navigation_Header_IV">Navigation Drawer</string>
+    <string name="Activity_Add_ET_Question">Question</string>
+    <string name="Activity_Add_ET_Answer">Answer</string>
+    <string name="Activity_Add_BTN_Add">Add</string>
+    <string name="Activity_Add_TV_Add">Add Question</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
 </resources>
